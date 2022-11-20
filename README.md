@@ -15,5 +15,5 @@ Please refer to the ACS-reference-guide for support or inquiries about the ACS-S
 ### Our latest release even provides support for RETINA graphics^ in RT/BS-mode:
 
 
-![1. MODE: RT/BS(bs)^](https://user-images.githubusercontent.com/114263485/202911822-dfe8ab49-086a-400f-a0f3-1e545ae84ef5.jpg) 
-![2. MODE: RT/BS(rt)^](https://user-images.githubusercontent.com/114263485/202911826-c9b6eb54-5757-4361-acf0-9c688e0c6245.jpg) 
+![alt text: 1. MODE: RT/BS(bs)^](https://user-images.githubusercontent.com/114263485/202911822-dfe8ab49-086a-400f-a0f3-1e545ae84ef5.jpg) 
+![alt test: 2. MODE: RT/BS(rt)^](https://user-images.githubusercontent.com/114263485/202911826-c9b6eb54-5757-4361-acf0-9c688e0c6245.jpg) 
