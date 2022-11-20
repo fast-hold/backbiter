@@ -1,16 +1,17 @@
-# BACKBITER .online 
+# BACKBITER (.online) 
 ## anti xor cheat engine
-
-Thanks for visiting [backbiter.online](https://www.backbiter.online))
+### backbiter.online
+(
+Thanks for visiting [backbiter.online](https://www.backbiter.online)!
 
 This engine provides both gamers, developers, demo editors (and/or])[xor] a quick overview of all the possible elements, 
 obects, name spaces, or anything else. 
 
-Our [latest release](https://github.com/fast-hold/backbiter/releases/tag/latest) even provides support for RETINA graphics^ in RT/BS-mode.
+Our [latest release](https://github.com/fast-hold/backbiter/archive/refs/tags/latest.zip) even provides support for RETINA graphics^ in RT/BS-mode.
 1. full flow-controll with its 100% rebuild core.
 2. Upgraded support for floating objects [xor] sinking logic.
 3. We can’t cover every edge case, so if you feel you lack some information about any of the elements: 
-Please refer to the ACS-reference-guide for support or inquiries about the ACS-Solution or/and/xor [inquiries](https://anubischeats.net/acs/#features)
+Please refer to the ACS-reference-guide for support or inquiries about the ACS-Solution or/and/xor [features](https://anubischeats.net/acs/#features)
 
 ### Our latest release even provides support for RETINA graphics^ in RT/BS-mode:
 
