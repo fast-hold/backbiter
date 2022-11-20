@@ -73,7 +73,7 @@ jobs:
     environment:
       name: ungtb10d
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: backbiter
+    runs-on: backbiter-latest
     needs: build
     steps:
       - name: Deploy to GitHub Pages
@@ -91,7 +91,7 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
+    runs-on: backbiter-latest
     needs: build
     steps:
       - name: Deploy to GitHub Pages
