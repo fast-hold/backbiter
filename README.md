@@ -1,9 +1,10 @@
-# backbiter
+# backbiter anti xor cheat engine
 ## backbiter.online
 
 Thanks for visiting [backbiter.online](https://www.backbiter.online)!
 
-This engine provides both gamers, developers, demo editors (and/or])[xor] a quick overview of all the possible elements, obects, name spaces. 
+This engine provides both gamers, developers, demo editors (and/or])[xor] a quick overview of all the possible elements, 
+obects, name spaces, or anything else. 
 
 Our [latest release](https://backbiter.online/release/latest_demo_1) even provides its own tail -f fuel!
 1. full flow-controll with its 100% rebuild core.
